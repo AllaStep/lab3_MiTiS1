@@ -1,1 +1,1 @@
-# lab3_MiTiS1
+#fistrepositore здесь находиться исходный файл
